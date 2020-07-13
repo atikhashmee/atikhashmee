@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Atik
+
+Let me start by telling a bit about myself
 
 <!--
 **atikhashmee/atikhashmee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
