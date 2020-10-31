@@ -2,7 +2,7 @@
 I am an aspiring Software Engineer. have been working for the past 3 years professionally. 
 in all these years I have gathered a good knowledge and expertise myself in various areas. 
 I love working with Javascript/ c++/ PHP/ Laravel. 
-I love writing queries in relational Database Like #mysql
+I love writing queries in relational Database Like ##mysql
 I have some devops skill like, Managing Dedicated server. Shared Hosting, Docker, etc. 
 
 I love problem solving. I solve problems whenever I get time on various online judges Like. codeforces. URIOnline Judge. HackerRank. etc
