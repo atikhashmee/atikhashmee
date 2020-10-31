@@ -1,6 +1,12 @@
 ### Hi there 👋 I am Atik,
 I am an aspiring Software Engineer. have been working for the past 3 years professionally. 
-in all these years I have gathered a good knowldege and expertise myself in various areas
+in all these years I have gathered a good knowledge and expertise myself in various areas. 
+I love working with Javascript/ c++/ PHP/ Laravel. 
+I love writing queries in relational Database Like #mysql
+I have some devops skill like, Managing Dedicated server. Shared Hosting, Docker, etc. 
+
+I love problem solving. I solve problems whenever I get time on various online judges Like. codeforces. URIOnline Judge. HackerRank. etc
+
 ## Commits
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 [![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/eslint/eslint.svg?style=flat)]() [![GitHub commits since](https://img.shields.io/github/commits-since/tterb/playmusic/v1.2.0.svg)]() 
